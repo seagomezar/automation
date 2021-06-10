@@ -1,0 +1,14 @@
+{
+  "name": "app-middleware",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "an-array-of-english-words": "^2.0.0",
+    "node-notifier": "^10.0.0",
+    "puppeteer": "^9.1.1"
+  }
+}
